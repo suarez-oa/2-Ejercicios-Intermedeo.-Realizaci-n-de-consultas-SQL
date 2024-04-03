@@ -1,0 +1,1 @@
+# 2-Ejercicios-Intermedeo.-Realizaci-n-de-consultas-SQL
